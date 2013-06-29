@@ -1,0 +1,35 @@
+/* http://www.gridlover.net/ */
+
+body {
+    font-size: 16px;
+    line-height: 34px;
+}
+article {
+    max-width: 944px;
+    margin: auto;
+}
+h1 {
+    font-size: 70px;
+    line-height: 102px;
+    margin-top: 34px;
+    margin-bottom: 68px;
+}
+h2 {
+    font-size: 34px;
+    line-height: 34px;
+    margin-top: 68px;
+    margin-bottom: 34px;
+}
+h3 {
+    font-size: 23px;
+    line-height: 34px;
+    margin-top: 34px;
+    margin-bottom: 0px;
+}
+p, ul {
+    margin-top: 0px;
+    margin-bottom: 34px;
+}
+small, aside {
+    font-size: 11px;
+}
