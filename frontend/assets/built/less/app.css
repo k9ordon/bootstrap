@@ -1,0 +1,7 @@
+@import "../../vendor/reset.css";
+body {
+  background-color: #fffafa;
+}
+a {
+  color: #ff0000;
+}
